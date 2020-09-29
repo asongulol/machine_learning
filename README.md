@@ -37,7 +37,7 @@ SMOTE Oversampling - 0.62
 
 Undersampling - 0.52
 
-Combination - o.61
+Combination - 0.61
 
 ## Recommendation for Resampling Techniques
 The scores above indicates balanced accuracy for Naive Oversampling as the highest among the methods used. It also resulted in the best recall scores. In this instance, Naive Oversampling should be used to best predict credit risk.
