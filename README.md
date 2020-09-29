@@ -4,7 +4,7 @@ Notebook file names: 1) __credit_risk_ensemble.ipynb__, 2) __credit_risk_resampl
 
 # Ensemble Learners
 
-## Balance Accuracy
+## Balanced Accuracy
 Although the Random Forest resulted in marginally less accuracy score (0.92) vs ADABoost (0.94), the balanced accuracy of the Random Forest method is significantly lower at 0.81 vs ADABoost at 0.92. 
 
 ## Recall 
