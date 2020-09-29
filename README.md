@@ -42,6 +42,6 @@ The scores above indicates balanced accuracy for Naive Oversampling as the highe
 
 # Resampling Methods vs Ensemble Methods Recommendation
 
-Comparing the resampling methods vs ensemble methods, in this analysis, the ensemble methods appears to be providing better accuracy as compared to resampling methods. Therefore, ensemble methods should definitely be considered.
+Comparing the resampling methods vs ensemble methods, in this analysis, the ensemble methods appears to be providing better accuracy as compared to resampling methods. Therefore, __ensemble methods should definitely be considered__.
 
 
