@@ -1,6 +1,8 @@
-# machine_learning
+# Machine_Learning
 
 Notebook file names: 1) __credit_risk_ensemble.ipynb__, 2) __credit_risk_resampling.ipynb__
+
+I attempted to put the different machine learning methods to the test to see which one gives the most accurate and precise methods for analyzing credit risk.
 
 # Ensemble Learners
 
